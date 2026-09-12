@@ -1,4 +1,4 @@
-# E-Commerce OLTP Database Project ( Ödev 3.1) 
+# E-Commerce OLTP Database Project (Ödev 3.1) 
 
 ## ER Diagram
 
